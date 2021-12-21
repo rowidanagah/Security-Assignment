@@ -25,6 +25,6 @@ def parse_arguments():
     return args
 ```
 
-to run *playfair* with plaintext = `instruments` and key =`Monarchy` excute the following command:
+to run *playfair* with plaintext = `instruments` and key = `Monarchy` excute the following command:
 
 `python main.py -alg playfair -k monarchy -txt instruments `
