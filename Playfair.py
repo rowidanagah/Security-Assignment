@@ -30,7 +30,7 @@ def generateKeyMatrix(key):
 				filter_key.append(ch)
 	iflagg = 'i' in filter_key
 	"""
-     Fill the remaining SimpleKeyArray with rest of unused letters from english alphabets 
+ 		Fill the remaining SimpleKeyArray with rest of unused letters from english alphabets 
 	"""
 	alpha = 'abcdefghiklmnopqrstuvwxyz'
 	for ch in alpha:
