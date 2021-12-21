@@ -1,11 +1,15 @@
 # Secuirity Project
 
 This repository contains an implementation of the following Algorithms.
-<dl>
-    <dt> Encrypt and decryption in [Vigenere](https://github.com/Rowida46/Security-Assignment/blob/main/vigenere.py). </dt>
-    <dt>Encrypt and decryption in [Play Fair](https://github.com/Rowida46/Security-Assignment/blob/main/Playfair.py). </dt>
-    <dt>Encrypt and decryption in  [Caesar Ciper](https://github.com/Rowida46/Security-Assignment/blob/main/caesar.py). </dt>
-    <dt>Encrypt and decryption in  [Autokey](https://github.com/Rowida46/Security-Assignment/blob/main/outokey.py). </dt>
+
+Encrypt and decryption in [Vigenere](https://github.com/Rowida46/Security-Assignment/blob/main/vigenere.py)
+
+Encrypt and decryption in [Play Fair](https://github.com/Rowida46/Security-Assignment/blob/main/Playfair.py).
+
+Encrypt and decryption in  [Caesar Ciper](https://github.com/Rowida46/Security-Assignment/blob/main/caesar.py). 
+
+Encrypt and decryption in  [Autokey](https://github.com/Rowida46/Security-Assignment/blob/main/outokey.py)
+
 
 To run the script, execute it with the following arguments:
 
