@@ -28,3 +28,10 @@ def parse_arguments():
 to run *playfair* with plaintext = `instruments` and key = `Monarchy` excute the following command:
 
 `python main.py -alg playfair -k monarchy -txt instruments `
+
+
+## To Do
+
+- [] PlayFair in js
+- [] AutoKey in JS
+- [] Add URL.
