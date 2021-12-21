@@ -32,6 +32,6 @@ to run *playfair* with plaintext = `instruments` and key = `Monarchy` excute the
 
 ## To Do
 
-- [] PlayFair in js
-- [] AutoKey in JS
-- [] Add URL.
+-  [x] PlayFair in js
+-  [x] AutoKey in JS
+-  [x] Add URL.
