@@ -1,11 +1,11 @@
-from caesar import caesar_decrypt, caesar_encryption
-from vigenere import vigenere_decrypt, vigenere_encrypt
-from Playfair import playfair_encrypt
+from Python.caesar import caesar_decrypt, caesar_encryption
+from Python.vigenere import vigenere_decrypt, vigenere_encrypt
+from Python.Playfair import playfair_encrypt
 import argparse
 
-# python parse.py -alg casear -k=2 -en no -txt=dana
 def run(args):
     text, key, alg, enc = args.text, args.key, args.algorithm, args.encryption
+    print("Text is " , text, "\nKey is ", key, "\nAlgorith Used ", alg, "\nEncryption ?", enc =="yes" )
     if alg == "casear":
         key = int(key)
         if enc =='yes':
@@ -38,6 +38,5 @@ def parse_arguments():
 
 if __name__ == '__main__':
     args = parse_arguments()
-    txt = run(args)
-    print(txt)
-
+    text = run(args)
+    print("   ",text)
